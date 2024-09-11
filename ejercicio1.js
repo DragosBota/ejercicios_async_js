@@ -1,12 +1,3 @@
-//"id": 0,
-//"firstName": "string",
-//"lastName": "string",
-//"fullName": "string",
-//"title": "string",
-//"family": "string",
-//"image": "string",
-//"imageUrl": "string"
-
 //Función de llamada asicrona
 const getCharacterInfo  = async () => {
   //Hacemos la llamada con el fetch
